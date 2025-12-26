@@ -1,0 +1,17 @@
+{
+  "$schema": "../../../node_modules/@wako-app/mobile-sdk/dist/manifest-schema.json",
+  "version": "1.0.1",
+  "id": "plugin.tmdb-adult-content",
+  "name": "TMDb adult content",
+  "description": "Will enable include_adult parameter from TMDb API https://developers.themoviedb.org/3/search/search-movies",
+  "author": "piloupilou06",
+  "actions": [],
+  "entryPointV3": "https://raw.githubusercontent.com/morpheasgr/plugin.tmdb-adult-content/dist/plugin.js",
+  "languages": {
+    "en": "/i18n/en.json"
+  },
+  "changeLogs": {
+    "1.0.1": "Fix Attempt 1"
+    "1.0.0": "Initial Version"
+  }
+}

@@ -6,7 +6,7 @@
   "description": "Will enable include_adult parameter from TMDb API https://developers.themoviedb.org/3/search/search-movies",
   "author": "piloupilou06",
   "actions": [],
-  "entryPointV3": "https://raw.githubusercontent.com/morpheasgr/plugin.tmdb-adult-content/dist/plugin.js",
+  "entryPointV3": "https://raw.githubusercontent.com/morpheasgr/plugin.tmdb-adult-content/main/dist/plugin.js",
   "languages": {
     "en": "/i18n/en.json"
   },
@@ -15,3 +15,4 @@
     "1.0.0": "Initial Version"
   }
 }
+
